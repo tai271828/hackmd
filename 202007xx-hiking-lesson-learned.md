@@ -1,5 +1,8 @@
 # 202007xx 抱崖行後
 
+[![hackmd-github-sync-badge](https://hackmd.io/s2C-pmdTSga2DfPYAbauWw/badge)](https://hackmd.io/s2C-pmdTSga2DfPYAbauWw)
+
+
 # Lesson Learned
 ## 運動表現
 - 這次爬山過程每日睡眠長度都不太夠，第一天晚上不到八小時，第二天好像不到七小時，第三天好像不到六小時 XDDD
